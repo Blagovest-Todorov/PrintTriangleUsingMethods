@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PnZqBXK4xrHFGm2u442KDHjDpnWhSBuMLWrzEE4YW/VCu5ARD+2O/dsh/k2AA+fq4MHNahm9576fjkkcpV8mg==",
+  "dgSpecHash": "FU2OjC2MnHpSmCE49I8C3K+1Q8Z3/DFKimwC/HOeFFb2XLxMw/F7Tz0qSIc+15PyGSozFCmmpsq2yZ+G5Mgxhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\Methods\\05.PrintTriangle\\05.PrintTriangle.csproj",
+  "projectFilePath": "D:\\QA__\\GitProjects\\PrintTriangleUsingMethods\\05.PrintTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

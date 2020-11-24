@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\Methods\\05.PrintTriangle\\05.PrintTriangle.csproj",
+      "projectUniqueName": "D:\\QA__\\GitProjects\\PrintTriangleUsingMethods\\05.PrintTriangle.csproj",
       "projectName": "05.PrintTriangle",
-      "projectPath": "C:\\Users\\Bla\\source\\repos\\Methods\\05.PrintTriangle\\05.PrintTriangle.csproj",
+      "projectPath": "D:\\QA__\\GitProjects\\PrintTriangleUsingMethods\\05.PrintTriangle.csproj",
       "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bla\\source\\repos\\Methods\\05.PrintTriangle\\obj\\",
+      "outputPath": "D:\\QA__\\GitProjects\\PrintTriangleUsingMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
